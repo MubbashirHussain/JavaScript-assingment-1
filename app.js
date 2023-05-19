@@ -65,5 +65,5 @@ if(condition){
     console.log("if condition is "+condition+" else statment run")
 }
 
-
+consol.log("  ")
 
